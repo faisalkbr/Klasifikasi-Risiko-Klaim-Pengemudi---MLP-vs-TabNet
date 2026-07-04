@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/processed.npz
+outputs/models/hist_*.npy
+.DS_Store
+venv/
+.env
