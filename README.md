@@ -1,6 +1,6 @@
 # Klasifikasi Risiko Klaim Pengemudi — Perbandingan MLP vs TabNet + Deployment Flutter
 
-**UAS Praktikum Machine Learning 2026 — Kelompok XXX**
+**UAS Praktikum Machine Learning 2026 — Kelompok 01**
 Jalur: **Klasifikasi + Mobile**
 
 Proyek ini membandingkan **dua metode Deep Learning** (Deep MLP dan TabNet) pada satu dataset
